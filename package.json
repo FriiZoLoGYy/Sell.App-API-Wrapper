@@ -1,5 +1,5 @@
 {
-  "name": "sellapp",
+  "name": "sell.app",
   "version": "1.0.0",
   "description": "A Node.js API Wrapper made for Sell.App",
   "main": "index.js",
