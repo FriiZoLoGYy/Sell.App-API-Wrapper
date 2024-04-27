@@ -17,8 +17,8 @@
 
 ## Installation
 
-> [!CAUTION]
-> npm package installation coming soon.
+> [!IMPORTANT]
+> npm i sellapp-node
 
 ## Usage
 
@@ -39,5 +39,5 @@ API.blacklists.createBlacklist("email", "hi@example.com", "evil user").then((res
 Say you are part of multiple stores and want to access `bob.sell.app`, you would pass the slug `bob` as your store.
 
 ## Endpoints & Examples of Usage
-> [!CAUTION]
-> Coming Soon
+> [!IMPORTANT]
+> [Documentation](https://friizologyy.gitbook.io/sell.app-api-wrapper/)
