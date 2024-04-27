@@ -23,7 +23,7 @@
 ## Usage
 
 ```javascript
-const Sellapp = require("sell-app");
+const Sellapp = require("sellapp-node");
 const API = new Sellapp.API("YOUR_API_KEY");
 
 API.products.getAllProducts().then((res) => {
