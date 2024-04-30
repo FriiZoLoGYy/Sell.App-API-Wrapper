@@ -26,18 +26,11 @@
   },
   "homepage": "https://github.com/FriiZoLoGYy/Sell.App-API-Wrapper#readme",
   "dependencies": {
-    "axios": "^1.6.8",
-    "module-alias": "^2.2.3"
+    "axios": "^1.6.8"
   },
   "devDependencies": {
     "grunt": "^1.5.3",
     "grunt-bump": "^0.8.0",
     "grunt-cli": "^1.4.3"
-  },
-  "_moduleAliases": {
-    "@root": ".",
-    "@api": "./lib/api",
-    "@endpoints": "./lib/endpoints/",
-    "@utils": "./utils/"
   }
 }

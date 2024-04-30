@@ -1,4 +1,3 @@
-require('module-alias/register')
-const API = require("@api");
+const API = require("./lib/api");
 
 module.exports = { API };
